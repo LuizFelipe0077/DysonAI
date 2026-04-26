@@ -2017,7 +2017,7 @@ export function ChatApp() {
             }}
           >
             <ChevronLeft size={10} color="rgba(255,255,255,0.25)" />
-            <span style={{ color: "rgba(255,255,255,0.25)", fontSize: 10 }}>Histórico2</span>
+            <span style={{ color: "rgba(255,255,255,0.25)", fontSize: 10 }}>Histórico</span>
           </button>
 
             {/* Messages */}
